@@ -3,7 +3,7 @@ The bare minimum boilerplate to kickstart a React-Redux project  with sprinkles 
 To use:
  1. Clone the repository:
 
-  `git clone git@github.com:Codingwizardirl/react-redux-barebone-boilerplate.git`
+  `git clone https://github.com/Codingwizardirl/react-redux-barebone-boilerplate.git`
 
  2. Install packages:
 
