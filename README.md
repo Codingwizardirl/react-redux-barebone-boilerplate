@@ -1,3 +1,6 @@
+# No longer needed because of https://github.com/facebookincubator/create-react-app.
+
+
 The bare minimum boilerplate to kickstart a React-Redux project  with sprinkles of Material-UI and producitivy and happiness boosting features like ES6.
  
  To use:
