@@ -1,4 +1,4 @@
-# No longer needed because of https://github.com/facebookincubator/create-react-app.
+# No longer useful because of the magnificent tool that [create-react-app](https://github.com/facebookincubator/create-react-app) is.
 
 
 The bare minimum boilerplate to kickstart a React-Redux project  with sprinkles of Material-UI and producitivy and happiness boosting features like ES6.
